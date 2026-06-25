@@ -73,7 +73,7 @@ Computer Science Engineering Graduate | Java Full Stack Developer | Software Dev
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Status
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jesikagovind&show_icons=true&theme=tokyonight" />
